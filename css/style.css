@@ -1,8 +1,33 @@
-.splash {
-  background-color: beige;
+.header {
+  height: 75vh;
+  min-height: 500px;
+  background-image: url("https://cdn.pixabay.com/photo/2014/05/03/00/46/gadgets-336635_960_720.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 
 p {
-  font-size: 100px;
+  font-family: 'Work Sans';
+  color: white;
+  font-size: 35px;
 }
-/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uL3Nhc3Mvc3R5bGUuc2NzcyIsInN0eWxlLmNzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNJLHVCQUF1QjtBQ0MzQjs7QURFQTtFQUNJLGdCQUFnQjtBQ0NwQiIsImZpbGUiOiJzdHlsZS5jc3MifQ== */
+
+h4 {
+  font-family: 'Work Sans', Bold 700;
+  text-transform: capitalize;
+  font-size: 56px;
+  color: white;
+}
+
+.navbar-light .navbar-brand {
+  font-size: 30px;
+  color: gold;
+  font-family: 'Dancing Script', cursive;
+}
+
+.navbar-expand-md .navbar-nav {
+  color: red;
+  font-size: 25px;
+}
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uL3Nhc3Mvc3R5bGUuc2NzcyIsInN0eWxlLmNzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNFLFlBQVk7RUFDWixpQkFBaUI7RUFDakIsa0dBQWtHO0VBQ2xHLHNCQUFzQjtFQUN0QiwyQkFBMkI7RUFDM0IsNEJBQTRCO0FDQzlCOztBREVBO0VBQ0ksd0JBQXdCO0VBQ3hCLFlBQVk7RUFDWixlQUFlO0FDQ25COztBREVBO0VBQ0ksa0NBQWtDO0VBQ2xDLDBCQUEwQjtFQUMxQixlQUFlO0VBQ2YsWUFBWTtBQ0NoQjs7QURFQTtFQUNJLGVBQWU7RUFDZixXQUFXO0VBQ1gsc0NBQXNDO0FDQzFDOztBREVBO0VBQ0ksVUFBVTtFQUNWLGVBQWU7QUNDbkIiLCJmaWxlIjoic3R5bGUuY3NzIn0= */

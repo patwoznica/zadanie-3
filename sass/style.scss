@@ -1,7 +1,32 @@
-.splash {
-    background-color: beige;
-}
+.header {
+  height: 75vh;
+  min-height: 500px;
+  background-image: url('https://cdn.pixabay.com/photo/2014/05/03/00/46/gadgets-336635_960_720.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}    
 
 p {
-    font-size: 100px;
+    font-family: 'Work Sans';
+    color: white;
+    font-size: 35px;
+}
+
+h4 {
+    font-family: 'Work Sans', Bold 700;
+    text-transform: capitalize;
+    font-size: 56px;
+    color: white;
+}    
+
+.navbar-light .navbar-brand {
+    font-size: 30px;
+    color: gold;
+    font-family: 'Dancing Script', cursive;
+}
+
+.navbar-expand-md .navbar-nav {
+    color: red;
+    font-size: 25px;   
 }
