@@ -7,13 +7,13 @@
   background-repeat: no-repeat;
 }
 
-p {
+h3 {
   font-family: 'Work Sans';
   color: white;
   font-size: 35px;
 }
 
-h4 {
+h1 {
   font-family: 'Work Sans', Bold 700;
   text-transform: capitalize;
   font-size: 56px;
@@ -30,4 +30,37 @@ h4 {
   color: red;
   font-size: 25px;
 }
-/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uL3Nhc3Mvc3R5bGUuc2NzcyIsInN0eWxlLmNzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNFLFlBQVk7RUFDWixpQkFBaUI7RUFDakIsa0dBQWtHO0VBQ2xHLHNCQUFzQjtFQUN0QiwyQkFBMkI7RUFDM0IsNEJBQTRCO0FDQzlCOztBREVBO0VBQ0ksd0JBQXdCO0VBQ3hCLFlBQVk7RUFDWixlQUFlO0FDQ25COztBREVBO0VBQ0ksa0NBQWtDO0VBQ2xDLDBCQUEwQjtFQUMxQixlQUFlO0VBQ2YsWUFBWTtBQ0NoQjs7QURFQTtFQUNJLGVBQWU7RUFDZixXQUFXO0VBQ1gsc0NBQXNDO0FDQzFDOztBREVBO0VBQ0ksVUFBVTtFQUNWLGVBQWU7QUNDbkIiLCJmaWxlIjoic3R5bGUuY3NzIn0= */
+
+#mobile-menu a {
+  color: white;
+}
+
+.column {
+  margin-top: 150px;
+  text-align: center;
+}
+
+.card p {
+  color: black;
+  font-size: 16px;
+}
+
+.container {
+  max-width: 90vw;
+  margin: 0 auto;
+}
+
+.first-text p {
+  color: black;
+  font-size: 16px;
+}
+
+i {
+  font-size: 25px;
+}
+
+.container-fluid {
+  background-color: #e0ebeb;
+  padding-left: 0;
+}
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uL3Nhc3Mvc3R5bGUuc2NzcyIsInN0eWxlLmNzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNFLFlBQVk7RUFDWixpQkFBaUI7RUFDakIsa0dBQWtHO0VBQ2xHLHNCQUFzQjtFQUN0QiwyQkFBMkI7RUFDM0IsNEJBQTRCO0FDQzlCOztBREVBO0VBQ0ksd0JBQXdCO0VBQ3hCLFlBQVk7RUFDWixlQUFlO0FDQ25COztBREVBO0VBQ0ksa0NBQWtDO0VBQ2xDLDBCQUEwQjtFQUMxQixlQUFlO0VBQ2YsWUFBWTtBQ0NoQjs7QURFQTtFQUNJLGVBQWU7RUFDZixXQUFXO0VBQ1gsc0NBQXNDO0FDQzFDOztBREVBO0VBQ0ksVUFBVTtFQUNWLGVBQWU7QUNDbkI7O0FERUE7RUFDSSxZQUFZO0FDQ2hCOztBREVBO0VBQ0ksaUJBQWlCO0VBQ2pCLGtCQUFrQjtBQ0N0Qjs7QURFQTtFQUNJLFlBQVk7RUFDWixlQUFlO0FDQ25COztBREVBO0VBQ0ksZUFBZTtFQUNmLGNBQWM7QUNDbEI7O0FERUE7RUFDSSxZQUFZO0VBQ1osZUFBZTtBQ0NuQjs7QURFQTtFQUNJLGVBQWU7QUNDbkI7O0FERUE7RUFDSyx5QkFBeUI7RUFDMUIsZUFBZTtBQ0NuQiIsImZpbGUiOiJzdHlsZS5jc3MifQ== */
