@@ -46,7 +46,6 @@ h1 {
 }
 
 .container {
-    max-width: 90vw;
     margin: 0 auto;
 }
 
@@ -61,5 +60,18 @@ i {
 
 .container-fluid {
      background-color: #e0ebeb;
+}
+
+.col-lg-9 {
+    text-align: center;
+}
+
+.portfolio { 
     padding-left: 0;
+    margin-left: 0;
+    background-color: #e0ebeb;
+}
+
+.three {
+    justify-content: center;
 }
