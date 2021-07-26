@@ -1,5 +1,5 @@
 .header {
-  height: 75vh;
+  height: 80vh;
   min-height: 500px;
   background-image: url('https://cdn.pixabay.com/photo/2014/05/03/00/46/gadgets-336635_960_720.jpg');
   background-size: cover;
@@ -47,6 +47,7 @@ h1 {
 
 .container {
     margin: 0 auto;
+    justify-items: center;
 }
 
 .first-text p {
@@ -54,7 +55,7 @@ h1 {
     font-size: 16px;
 }
 
-i {
+.footer i {
     font-size: 25px;
 }
 
@@ -72,6 +73,23 @@ i {
     background-color: #e0ebeb;
 }
 
-.three {
-    justify-content: center;
+.col-lg-12 {
+    text-align: center;
+}
+
+.card {
+border-style: none;
+}
+
+i.fas {
+  font-size: 30px;
+  color: orange;
+  display: inline-block;
+  border-radius: 70px;
+  box-shadow: 0px 0px 2px orange;
+  padding: 0.6em 0.7em;
+}
+
+.card-title {
+    padding-top: 15px;
 }
